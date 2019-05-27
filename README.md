@@ -42,12 +42,12 @@ mpiexec -n 4 python train.py --problem space --image_size 32 --n_level 2 --depth
 
 Emerging:
 ```
-mpiexec -n 4 python train.py --problem space --image_size 32 --n_level 3 --depth 8 --flow_permutation 3 --flow_coupling 1 --seed 2 --lr 0.001 --n_bits_x 8 --epochs 6001
+mpiexec -n 4 python train.py --problem space --image_size 32 --n_level 2 --depth 8 --flow_permutation 3 --flow_coupling 1 --seed 2 --lr 0.001 --n_bits_x 8 --epochs 6001
 ```
 
 Baseline (Glow):
 ```
-mpiexec -n 4 python train.py --problem space --image_size 32 --n_level 3 --depth 8 --flow_permutation 2 --flow_coupling 1 --seed 2 --lr 0.001 --n_bits_x 8 --epochs 6001
+mpiexec -n 4 python train.py --problem space --image_size 32 --n_level 2 --depth 8 --flow_permutation 2 --flow_coupling 1 --seed 2 --lr 0.001 --n_bits_x 8 --epochs 6001
 ```
 
 ##### CIFAR-10 results
