@@ -1,6 +1,6 @@
 # Emerging Convolutions for Generative Flows
 
-Code to reproduce results in Emerging Convolutions for Generative Flows: [paper](https://arxiv.org/abs/1901.11137), [blog](https://ehoogeboom.github.io/post/invertible_convs/).
+Code for invertible convolutions (or deconvolutions) in deep neural networks: [paper](https://arxiv.org/abs/1901.11137), [blog](https://ehoogeboom.github.io/post/invertible_convs/).
 
 If you use our work, please cite us: 
 ```
