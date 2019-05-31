@@ -29,7 +29,7 @@ The source is adapted from [Glow: Generative Flow with Invertible 1x1 Convolutio
 CIFAR10 is automatically downloaded.
 Galaxy images need to be downloaded [here](https://github.com/SpaceML/merger_transfer_learning).
 
-ImageNet 32x32 and 64x64 was downloaded from the link on the Glow github: `https://storage.googleapis.com/glow-demo/data/{dataset_name}-tfr.tar'
+ImageNet 32x32 and 64x64 was downloaded from the link on the Glow github: `https://storage.googleapis.com/glow-demo/data/{dataset_name}-tfr.tar`
 with `imagenet-oord` as dataset_name. 
 
 
